@@ -1,12 +1,18 @@
+import React, { useEffect } from 'react';
 import { StatusBar } from 'expo-status-bar';
+import { Provider } from 'react-redux';
 import { StyleSheet, Text, View } from 'react-native';
+import configureStore from "./store/store";
+import Navigator from './navigation/navigator';
+import Auth from './Screens/Auth';
+
+const store = configureStore;
 
 export default function App() {
   return (
-    <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
+    <Provider store={store}>
+      <Navigator />
+    </Provider>
   );
 }
 
