@@ -10,3 +10,9 @@ The end goal of this project is to have an MVP to publish on the apple app store
 
 
 ![IMG_0231](https://user-images.githubusercontent.com/60354368/193951562-2f404562-8328-4c37-bcde-803493df59dd.jpeg)
+
+
+![IMG_0230](https://user-images.githubusercontent.com/60354368/193951603-d2e1dd8f-2f9d-44e6-84ac-f53e977bf92a.jpeg)
+
+
+![IMG_0229](https://user-images.githubusercontent.com/60354368/193951607-7ca30b09-7faa-4cfb-b452-b77f513beaa5.jpeg)
