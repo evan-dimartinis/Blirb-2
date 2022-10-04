@@ -8,6 +8,5 @@ For more details about the overall application, you can visit the old repo here:
 
 The end goal of this project is to have an MVP to publish on the apple app store and below you will find the first iterations of the new design.
 
-![IMG_0229](https://user-images.githubusercontent.com/60354368/193951399-a9de9ee8-417c-4b55-a7c0-d6732bbce2b8.jpeg)
-![IMG_0230](https://user-images.githubusercontent.com/60354368/193951411-f1f586aa-4dec-4b82-bd9c-d5854775a211.jpeg)
-![IMG_0231](https://user-images.githubusercontent.com/60354368/193951420-b969dcf6-4f16-4f23-b66a-c432398f730d.jpeg)
+
+![IMG_0231](https://user-images.githubusercontent.com/60354368/193951562-2f404562-8328-4c37-bcde-803493df59dd.jpeg)
